@@ -14,5 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📫 How to reach me: 
+  Tank#1334 - discord
+  
+  I\`m on networkchuk discord (https://discord.gg/networkchuck) and world of code (https://discord.gg/coding)
+  
+  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tank1334)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tank1334)](https://github.com/anuraghazra/github-readme-stats)
