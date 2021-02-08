@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📫 How to reach me: 
-  Tank#1334 - discord
+  Tank1334#9194 - discord
   
   I\`m on [networkchuk\'s discord](https://discord.gg/networkchuck) and [world of code](https://discord.gg/coding)
   
