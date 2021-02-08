@@ -1,26 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Tank1334/Tank1334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 📫 How to reach me: 
-  Tank1334#9194 - discord
+## 📫 How to reach me: 
+  * Tank1334#9194 - discord
   
-  I\`m on [networkchuk\'s discord](https://discord.gg/networkchuck) and [world of code](https://discord.gg/coding)
-  
-  I work a lot with [TridentWolf](https://github.com/TridentWolfDev)
-  
+  * i\'m on [networkchuk\'s discord](https://discord.gg/networkchuck) and [world of code](https://discord.gg/coding)
 
+
+# Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tank1334)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tank1334)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Other:
+I work a lot with [TridentWolf](https://github.com/TridentWolfDev) so feel free to check him out.
+
+## Work:
+* Reach out to me if you would like some tutoring or discord bots
+* [My Fiver bot gig](https://www.fiverr.com/eldartank/make-you-a-discord-bot-using-python)
