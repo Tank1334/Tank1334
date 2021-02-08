@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
   Tank#1334 - discord
   
-  I\`m on networkchuk discord (https://discord.gg/networkchuck) and world of code (https://discord.gg/coding)
+  I\`m on [networkchuk\'s discord](https://discord.gg/networkchuck) and [world of code](https://discord.gg/coding)
   
-  I work a lot with TridentWolf(TridentWolfDev)
+  I work a lot with [TridentWolf](https://github.com/TridentWolfDev)
   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tank1334)](https://github.com/anuraghazra/github-readme-stats)
