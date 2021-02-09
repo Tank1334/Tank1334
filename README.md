@@ -5,7 +5,7 @@
   
   * i\'m on [networkchuk\'s discord](https://discord.gg/networkchuck) 
   
-  * [world of code](https://discord.gg/coding)
+  * I moderate and help people with coding and tech problem at [world of code](https://discord.gg/coding)
 
 
 
