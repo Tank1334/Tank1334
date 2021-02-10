@@ -20,6 +20,6 @@
 * ETH - 0xA60001a8AF20CB61cb547A0C3dAbC462e78d3d74
 
 # Stats:
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tank1334)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tank1334)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tank1334)]
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tank1334)
