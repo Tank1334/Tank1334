@@ -16,8 +16,12 @@
 #### Other:
 * I work a lot with [TridentWolf](https://github.com/TridentWolfDev) so feel free to check him out.
 #### Dontations:
-* BTC - 1M4QEkaqEgbspewnwvJiAFTohnVujeDAVV
-* ETH - 0xA60001a8AF20CB61cb547A0C3dAbC462e78d3d74
+##### Most of my work is done and distebuted free of charge an open source so feel free to contribute as you feel fit
+* BTC - bc1qpdvcp3mqstng5qg9ls5ramkme6y7wd4da45cuq
+* ETH - 0x9940bda97b64532436277b63a0b016d8ac46d55c
+* LTC - ltc1qal5sscm3rqxe5qfp0a7fjk4qlsr07n58zlqkgg
+* USDT - 0x9940bda97b64532436277b63a0b016d8ac46d55c
+
 
 # Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tank1334)
