@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 📫 How to reach me: 
-  * Tank1334#9194 - discord
+  * Tank1334#9194 - discord(feel free to send over nitro)
   
   * i\'m on [networkchuk\'s discord](https://discord.gg/networkchuck) 
   
