@@ -28,6 +28,4 @@
 * if you would like to contribute to my work in any other way (i.e gift cards or another crypto not mentioned above) you can report an issue to this repo
 
 # Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tank1334)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tank1334)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tank1334) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tank1334)
