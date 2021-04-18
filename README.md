@@ -29,3 +29,6 @@
 
 # Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tank1334) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tank1334)
+
+# Visitors:
+https://profile-counter.glitch.me/Tank1334/count.svg
