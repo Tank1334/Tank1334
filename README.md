@@ -32,3 +32,6 @@
 
 # Visitors:
 ![visitor](https://profile-counter.glitch.me/Tank1334/count.svg)
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
