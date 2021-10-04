@@ -7,6 +7,9 @@
   
   * Though no longer very active feel free to join [world of coding](https://discord.gg/coding) and ping/DM me from there.
 
+# Message board:
+## In case I have announcments about my work
+[My website](https://tankdoggo.tech) is going to go through a complete re-design since it's kinda of trash so don't take it seriously for now.
 
 
 // # Work:
