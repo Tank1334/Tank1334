@@ -13,7 +13,7 @@
 [My website](https://tankdoggo.tech) is going to go through a complete re-design since it's kinda of trash so don't take it seriously for now.
 -->
 
-// # Work:
+# Work:
 
 #### Other:
 * I work a lot with [Ariel Cohen](https://github.com/CohenAriel) so feel free to check him out.
