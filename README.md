@@ -18,8 +18,8 @@
 #### Other:
 * I work a lot with [Ariel Cohen](https://github.com/CohenAriel) so feel free to check him out.
 * same goes for [Eldar Goldring](https://github.com/Barkod1)
-#### Dontations:
-<!--
+<!--#### Dontations:
+
 ##### Most of my work is done and distebuted free of charge and completely open source so if anything I do helps you feel free to send me a tip 🙃
 * BTC - bc1qpdvcp3mqstng5qg9ls5ramkme6y7wd4da45cuq
 * ETH - 0x9940bda97b64532436277b63a0b016d8ac46d55c
