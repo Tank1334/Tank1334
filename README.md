@@ -35,7 +35,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tank1334) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tank1334)
 
 # Visitors:
-![visitor](https://profile-counter.glitch.me/Tank133/count.svg)
+![visitor](https://profile-counter.glitch.me/Tank434133/count.svg)
 
 ## 😂 Here is a random joke because laughing is always good
 ![Jokes Card](https://readme-jokes.vercel.app/api)
