@@ -13,7 +13,8 @@
 #### Other:
 * I work a lot with [Ariel Cohen](https://github.com/CohenAriel) so feel free to check him out.
 * same goes for [Eldar Goldring](https://github.com/Barkod1)
-<!--#### Dontations:
+
+  
 # Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tank1334) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tank1334)
 
